@@ -1,2 +1,3 @@
-# PoV-display
-Persistence of vision display
+# Persistence-of-Vision-based-LED-Display
+
+<img src = "schematics.jpg">
